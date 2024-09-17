@@ -1,0 +1,16 @@
+{
+  "dentist": [
+    { "id": 1, "name": "Jimin", "image": "/images/jimin1.jpg" },
+    { "id": 2, "name": "Yoongi", "image": "/images/yoongi.jpg" },
+    { "id": 3, "name": "Taehyun", "image": "/images/tae.jpg" },
+    { "id": 4, "name": "Jungkook", "image": "/images/Jungkook.jpg" },
+    { "id": 5, "name": "Jin", "image": "/images/Jin.jpg" },
+    { "id": 6, "name": "Namjoon", "image": "/images/joon.jpg" },
+    { "id": 7, "name": "Hobi", "image": "/images/hoseok.jpg" },
+    { "id": 8, "name": "Jimin1", "image": "/images/jimin.jpg" },
+    { "id": 9, "name": "Yoongi1", "image": "/images/yoongi1.jpg" },
+    { "id": 10, "name": "Taehyun1", "image": "/images/tae1.jpg" }
+  ]
+}
+
+  
